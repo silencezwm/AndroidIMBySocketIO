@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/206a8b46421b2f491624147b325d542b02a762b3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_a431fe98461a4f9a8e40829cd01e540f68aa342c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/f3f8ff8262476a435c048a2397cac2571ba40adc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_de8e715c4df395ae87d9fb45417c086ad2d4fbac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_a6831c4ba9adfff0e704f997cfeebb26c3eb8886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.8.3/b30500232ff0668a47c9f91f02e6935457a52fb5/socket.io-client-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b30500232ff0668a47c9f91f02e6935457a52fb5">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/socket.io-client-0.8.3_8540df1a6d591e16391c86383509bc26f0af2307.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/ce92f7801e84b7b9d71ff554bb53d37b4f674704/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_010ae8f7078dd0b379ac8b3b7e0f8c03d154f0e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_8c5a18538e9a2f75ca30b3cd36dc8984034b32df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/c1a6d64cb3c8514ea71eeaaf76e1ab89948af0ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_211b4bb1db04c462df9906cbc3e8a99623e28473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_ead247464a0e06606140b68d7e57e6ff3b17501f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_710d7ef0938415aff2d221ce4276a0e5e00363c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/1399cb6874d6de4560353b2611a1e2d077a4a024/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_24233fa308226e82f1bd542ebc9ed915973f7171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/d1bc1cbbf5fee0613e2ff8618405feb1ce10eed1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_147c135f8f8fff325a7ca5e1cbbb9359fca89c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/7c0df71e15cf7f4ae107cde6657c130e6d208e8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_a4c9d0568e81b3a82fb844caa467a60f995f328c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/ba2ac351cc9bc336df825eabe675b1a6ed529e01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_4c0bee3b6e4eb30257efa9a4429b5c80e77121ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.8.3/854b49396e1e9f9bb0ab025062ddb49c4ed65ca1/engine.io-client-0.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="854b49396e1e9f9bb0ab025062ddb49c4ed65ca1">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/engine.io-client-0.8.3_86aa8f7ca64f30b3e8721b168a8ea998c68b22bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/e342d9aac99894993bfa4897e228ca634f7e3a87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_61b169d181e76012247116186b071e56f4d7d62e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/61ad8d69a1438503d4bdd8b41dd4fb0abfd655ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_1b33009addb44f7745e79357ac90e8e981cc9e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/d718d302d5f352ff93e312f2ed892e9d8c0c8624/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_a9ec461e67307d332aca3911ca092208365c394a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/okio-1.11.0_5433e6c2959a656e8d11ff95b2506b89a0545451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/silencezwm/.android/build-cache/05734a403690a5cbd1b8c7464df6b6b23e29a87b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/silencezwm/Documents/Company/AndroidIMBySocketIO/app/build/intermediates/pre-dexed/debug/classes_8c56d669739d8dbe3617f26aeb81bb3fb41d0cf0.jar" />
+    </item>
+
+</items>

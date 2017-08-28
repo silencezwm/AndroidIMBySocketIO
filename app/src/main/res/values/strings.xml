@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidIMBySocketIO</string>
+
+    <string name="input_nickname">请输入昵称</string>
+    <string name="join_chatroom">加入聊天室</string>
+    <string name="error_field_required">可以取个好名字</string>
+    <string name="prompt_message">我想说...</string>
+    <string name="action_send">Send</string>
+    <string name="socket_connect_fail">Socket未连接成功</string>
+
+</resources>
