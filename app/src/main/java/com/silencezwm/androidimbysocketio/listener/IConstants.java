@@ -8,7 +8,7 @@ package com.silencezwm.androidimbysocketio.listener;
 public interface IConstants {
 
     // 该地址为Socket.IO官方测试地址，实际项目中请更换
-    String CHAT_SERVER_URL = "https://socketio-chat.now.sh/";
+    String CHAT_SERVER_URL = "https://socket-io-chat.now.sh/";
 
 
     // 登录
